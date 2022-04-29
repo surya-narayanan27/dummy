@@ -3,6 +3,11 @@ public class SmallestNumberExample1
 {  
 public static void main(String[] args)   
 {  
+
+
+
+
+
 int a, b, c, smallest, temp;  
 //object of the Scanner class  
 Scanner sc = new Scanner(System.in);  
